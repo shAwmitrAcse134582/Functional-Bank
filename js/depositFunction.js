@@ -5,12 +5,12 @@
 //     return inputFieldValue;
 // }
 
-// // function getElementValueById(elementId) {
-// //     const element = document.getElementById(elementId);
-// //     const elementValueString = element.innerText;
-// //     const value = parseFloat(elementValueString);
-// //     return value;
-// // }
+// function getElementValueById(elementId) {
+//     const element = document.getElementById(elementId);
+//     const elementValueString = element.innerText;
+//     const value = parseFloat(elementValueString);
+//     return value;
+// }
 // function getElementTextById(elementId) {
 //     const textElement = document.getElementById(elementId);
 //     const textElementString = textElement.innerText;
